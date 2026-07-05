@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Aspiring developer learning web development and software engineering. I enjoy building projects, exploring new tools, and improving my programming skills step by step.
 
 
